@@ -1,8 +1,8 @@
-package br.com.meli;
+package br.com.meli.entity;
 
+import br.com.meli.entity.Veiculo;
 import lombok.Data;
 
-import java.util.LinkedList;
 import java.util.List;
 
 @Data

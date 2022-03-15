@@ -1,5 +1,7 @@
 package br.com.meli;
 
+import br.com.meli.entity.Veiculo;
+
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Comparator;

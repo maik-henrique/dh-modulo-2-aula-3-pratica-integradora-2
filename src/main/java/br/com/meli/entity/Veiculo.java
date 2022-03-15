@@ -1,4 +1,4 @@
-package br.com.meli;
+package br.com.meli.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
